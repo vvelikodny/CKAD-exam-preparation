@@ -12,6 +12,9 @@ https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.14.1.pdf
 * Udemy: [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
 * Udemy: [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
+# Books
+https://matthewpalmer.net/kubernetes-app-developer/kubernetes-book.html
+
 # Additional Practice
 * https://github.com/dgkanatsios/CKAD-exercises
 
