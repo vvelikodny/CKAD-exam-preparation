@@ -6,7 +6,7 @@ The official Kubernetes documentation available during the CKAD exam
 https://kubernetes.io/docs/home/
 
 # CKAD Curriculum V1
-https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.14.1.pdf
+https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_V1.19.pdf
 
 # Courses
 * Udemy: [Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/)
